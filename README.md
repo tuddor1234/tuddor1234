@@ -3,6 +3,8 @@ Hello there!
 I am a freelance Software Engineer and I work with Game Engines (mosty). I have been developing software with both 𝐔𝐧𝐢𝐭𝐲 and 𝐔𝐧𝐫𝐞𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞 for +3.5 Years, been part of both short and long term projects and worked with various people around the world🌍. 
 
 Skills and technologies I worked with:
+
+
 ✅ Unity: 
 - 𝐂# , 𝐂++
 - 𝐗𝐑 ( AR / Mixed Reality- Hololens)
