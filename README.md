@@ -29,8 +29,6 @@ Skills and technologies I worked with:
 - Git / GitHub / Sourcetree
 - Cloud (Azure)
 - REST API, .NET
-- Parralel programming, CUDA,
-- OpenGL, OpenCV
 - Agile, SCRUM, SOLID
 - MVC, MVVM
 - WFA, WPF 
