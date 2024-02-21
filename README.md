@@ -1,68 +1,41 @@
-Hey! I love helping artists bring their creativity to life in the digital realm through coding! My tools have become favorites in the movie and gaming industries worldwide.
+🚀Hey there! I'm passionate about transforming artistic visions into digital realities through coding! Over the years, my tools have become go-to favorites in the global movie and gaming industries.
 
-Skills and technologies I worked with:
+💻 Tech Stack:
 
-✅ Unity: 
-
-• 𝐂# , 𝐂++
-
-• 𝐗𝐑 ( AR / Mixed Reality- Hololens / VR)
-
-• Mobile development (𝐀𝐧𝐝𝐫𝐨𝐢𝐝 and 𝐢𝐎𝐒)
-
+✅ Unity:
+• Proficient in 𝐂# and 𝐂++
+• Extensive experience with 𝐗𝐑 (AR/Mixed Reality - Hololens/VR)
+• Mobile development for 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 and 𝐢𝐎𝐒 platforms
 • 𝐒𝐃𝐊 integration
-
-• Plugin development (Editor / Engine development) 
-
+• Expertise in plugin development for both Editor and Engine
 • 𝐔𝐈/𝐔𝐗 development
+• Depth Cameras handling (Smartphone, Intel Realsense)
+• Gesture Recognition and Face & Body Tracking
 
-• Depth Cameras ( Smartphone, Intel Realsense)
-
-• Gesture Recognition
-
-• Face & Body Tracking 
-
-
-✅Unreal Engine:
-
-• 𝐂++ and Blueprints
-
-• 𝐔𝐈/𝐔𝐗 development ( 𝐔𝐌𝐆 and 𝐂++)
-
+✅ Unreal Engine:
+• Proficient in 𝐂++ and Blueprints
+• 𝐔𝐈/𝐔𝐗 development for 𝐔𝐌𝐆 and 𝐂++
 • 𝐀𝐏𝐈 development
-
 • iOS development
-
-• Plugin development (Editor / Engine development)
-
+• Plugin development for both Editor and Engine
 • Third-Party library integration
-
 • Network development
+• Pixel Streaming
 
-• Pixel Streaming 
+✅ Other Skills:
+• Custom Engine Development
+• Cross-Platform development
+• Client-Server Architecture
+• Version control with Git/GitHub
+• Cloud computing expertise (Azure)
+• REST API and .NET proficiency
+• Agile, SCRUM, SOLID principles
+• MVC, MVVM architectural patterns
+• WFA (Windows Forms Application), WPF (Windows Presentation Foundation)
+• QT, ImGUI
 
-
-✅Other:
-
-• Cross- Platform development
-
-• Client - Server Architecture
-
-• Git / GitHub
-
-• Cloud (Azure)
-
-• REST API, .NET
-
-• Agile, SCRUM, SOLID
-
-• MVC, MVVM
-
-• WFA, WPF 
-
-🤝 Is there any way my expertise can make an impact on your business? 𝗗𝗿𝗼𝗽 𝗺𝗲 𝗮 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝗮𝗻𝗱 𝗹𝗲𝘁'𝘀 𝗵𝗮𝘃𝗲 𝗮 𝗰𝗵𝗮𝘁!
+🤝 I thrive on challenges and am dedicated to staying at the forefront of technology trends. Let's collaborate and bring your artistic vision to life in the digital world!
 
 🌐 Only interested in remote work.
-
-📞 Phone: available upon request 
 📧 Email: dev@tudorturdasan.tech
+📞 Phone: available upon request
