@@ -1,69 +1,29 @@
-🚀Hey there! I'm passionate about transforming artistic visions into digital realities through coding! Over the years, my tools have become go-to favorites in the global movie and gaming industries.
+Do you work with real-time 3D data and need it to actually behave the way the real world does?
+Are you trying to simulate complex environments, stream behavior across devices, or build immersive XR experiences with high performance and low latency?
 
-💻 Tech Stack:
+I specialize in real-time data streaming and 3D simulation tools, helping teams connect the digital and physical worlds with precision and speed. Whether you’re prototyping an interactive system, visualizing sensor data in 3D, or building next-gen remote collaboration workflows, I help you bridge the gap between your code and the real world.
 
-✅ Unity:
+Here's how I can help:
+𝗖++ / 𝗖# / Real-Time Systems
+• Low-level protocol integrations (telemetry, remote rendering, live device feeds)
+• Cross-platform streaming architecture (custom engines, Unity, Unreal)
+• Fast, responsive API development for real-time data processing
+• Client-server architecture using WebSockets, MQTT, REST for XR/IoT
 
-• Proficient in 𝐂# and 𝐂++
+3D Simulation + Data Integration
+• High-performance pipelines for tracking, gesture recognition, face/body data
+• Real-time visualization tools (WPF, ImGUI, Qt)
+• Plugins and SDKs that extend or connect 3D engines to real-world inputs
+• Edge/cloud streaming (Azure, Firebase) for collaborative XR workflows
 
-• Extensive experience with 𝐗𝐑 (AR/Mixed Reality - Hololens/VR)
+UX + Control Systems
+ • Interfaces and dashboards for spatial data control, editing, and review
+ • Remote control of apps/devices, including mobile endpoints and iOS connectivity
 
-• Mobile development for 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 and 𝐢𝐎𝐒 platforms
+If you’re building something where timing, data accuracy, and immersive interactivity are critical, let’s talk.
 
-• 𝐒𝐃𝐊 integration
+I don't just build tools, I connect systems. From sensor to screen. From data to experience.
 
-• Expertise in plugin development for both Editor and Engine
-
-• 𝐔𝐈/𝐔𝐗 development
-
-• Depth Cameras handling (Smartphone, Intel Realsense)
-
-• Gesture Recognition and Face & Body Tracking
-
-✅ Unreal Engine:
-
-• Proficient in 𝐂++ and Blueprints
-
-• 𝐔𝐈/𝐔𝐗 development for 𝐔𝐌𝐆 and 𝐂++
-
-• 𝐀𝐏𝐈 development
-
-• iOS development
-
-• Plugin development for both Editor and Engine
-
-• Third-Party library integration
-
-• Network development
-
-• Pixel Streaming
-
-✅ Other Skills:
-
-• Custom Engine Development
-
-• Cross-Platform development
-
-• Client-Server Architecture
-
-• Version control with Git/GitHub
-
-• Cloud computing expertise (Azure)
-
-• REST API and .NET proficiency
-
-• Agile, SCRUM, SOLID principles
-
-• MVC, MVVM architectural patterns
-
-• WFA (Windows Forms Application), WPF (Windows Presentation Foundation)
-
-•QT, ImGUI
-
-🤝 I thrive on challenges and am dedicated to staying at the forefront of technology trends. Let's collaborate and bring your artistic vision to life in the digital world!
-
-🌐 Only interested in remote work.
-
-📧 Email: dev@tudorturdasan.tech
-
-📞 Phone: available upon request
+ Availability: Remote only
+ Email: dev@tudorturdasan.tech
+ Phone: Available upon request
